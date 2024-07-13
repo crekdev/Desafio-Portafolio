@@ -1,29 +1,20 @@
 @charset 'UTF-8';
 
 // Abstracts
-
 @import 
   'abstracts/variables';
-// Vendors
+
+  // Vendors
 @import
-  //'vendors/google_fonts',
   'vendors/bootstrap';
 
 // base
 
-/*@import
-  'base/reset',
-  'base/typography';/*
 
 // layout
 
-/*@import
-  'layout/nav',
-  'layout/section',
-  'layout/footer';*/
 
 // components
-
 @import
   'components/card';
 
@@ -32,8 +23,6 @@
 // themes
 @import 'themes/theme';
 
-/*@import
-  'themes/theme';*/
 
 // shame
 @import
