@@ -1,0 +1,7 @@
+.card {
+  &--hover {
+    :hover {
+      background-color: $primary;
+    }
+  }
+}
